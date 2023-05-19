@@ -1,4 +1,4 @@
-# music Player con React.Js
+# Music Player con React.Js
 Descripción
 Este repositorio contiene el código fuente de un Music Player desarrollado en colaboración con mis compañeros utilizando React.js. El Music Player es una aplicación web que permite a los usuarios reproducir y gestionar su colección de música de forma sencilla y visualmente atractiva.
 
